@@ -1,4 +1,4 @@
-def Workspace
+
 node{
     stage('ckeckout')
     {
