@@ -6,7 +6,7 @@ node{
     }
     stage('build')
     {
-        echo "this is build "
+        echo "this is the build "
     }
     stage('test')
     {
