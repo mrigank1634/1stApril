@@ -10,7 +10,7 @@ node{
     }
     stage('test')
     {
-        echo ("this is the testing")
+        echo ("this is testing")
     }
     
 }
